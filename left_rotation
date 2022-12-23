@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+int main(){
+int n;
+int d;
+int ar[n];
+cout<<"enter size of array: \n";
+cin>>n;
+cout<<"enter the number of rotation: \n";
+cin>>d;
+cout<<"enter the values of list: \n";
+for(int i=0; i<n; i++){
+  cin>>ar[i];
+}
+for(int i=d; i<n; i++){
+cout<<ar[i]<<' ';
+}
+for(int i=0; i<d; i++){
+
+    cout<<' '<<ar[i]<<' ';
+}
+    return 0;
+}
