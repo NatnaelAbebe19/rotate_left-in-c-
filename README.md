@@ -1,9 +1,4 @@
 
-
-Here’s a more descriptive version of the README for your C++ project:
-
----
-
 # Array Left Rotation in C++
 
 This repository contains a **C++ program** designed to rotate an array to the left by a specified number of positions. Array rotation is a common operation used in various programming challenges and real-world applications, such as data manipulation, circular queues, and cyclic operations.
@@ -66,9 +61,3 @@ Array after left rotation: 3 4 5 1 2
 ## Contributing
 Feel free to fork this repository, make improvements, and submit a pull request. All contributions are welcome!
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-This README now provides a comprehensive overview of the project, including its purpose, usage, example input/output, and instructions for running the code.
